@@ -1,0 +1,43 @@
+• La HU describe de manera simple una funcionalidad que se necesita tener en el software.
+
+Se cuenta desde la perspectiva de la persona que va a utilizar esta funcionalidad.
+Esto es importante porque “el software es de personas para personas”
+No se nos debe olvidar que trabajamos para un usuario final.
+Muchas veces se confunde al cliente (persona que solicita la funcionalidad) con usuario final.
+• SCRUM no tiene prácticas, es solo un contenedor de practicas.
+• Las HU se originaron en el marco de trabajo XP (Exteme Programming).
+
+En XP, las HU son unidades de funcionalidad visibles para el cliente.
+Aplicar las HU bajo el concepto de XP permite:
+Construir funcionalidades pequeñas. Lo que disminuye la complejidad del proyecto.
+“Divide y vencerás”.
+XP nos dice que no solo es redactar, sino conversar al rededor de las historias.
+
+
+
+
+
+
+************
+En la practica funciona mejor si condensas todo en una sola frase:
+
+Como admin quiero poder eliminar los comentarios con menos likes para mantener la plataforma con una interfaz limpia y que resalte los comentarios.
+
+Criterio de aceptación: Es posible eliminar los comentarios con menos de 15 de likes.
+
+En este caso la Funcionalidad de Agregar comentarios se puede manejar en una historia de usuario aparte. Saludos!
+
+
+
+**************
+
+
+¿Cómo se refinan los elementos de trabajo del Backlog?
+
+“El refinamiento de backlog del producto es el acto de descomponer y definir aún más los elementos de trabajo pendiente del producto en artículos más pequeños y precisos. Esta es una actividad en curso para agregar detalles”.
+
+El refinamiento se realiza en el inicio del Sprint planning. Si surgiera algo durante el sprint se podrá refinar en caso de ser necesario.
+
+Mientras el equipo está desarrollando las historias en curso es momento de refinar las historias que vienen y tenerlas en el próximo sprint planning.
+
+La responsabilidad de refinar es del Product Owner, en conjunto con las personas con las que trabaje. El Product Owner es el responsable del “qué” y el equipo del “cómo”.

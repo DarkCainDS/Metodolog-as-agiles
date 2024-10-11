@@ -1,0 +1,11 @@
+¿Cómo se priorizan las historias de Usuario?
+
+Priorizar no es decir que todo urge, sino entender cada una de las partes de la solución y poder decir cual aporta más en este momento, cuál puede esperar y cual no estaría aportando. Es importante hacer la priorización de manera colaborativa.
+
+Categorizando al Valor que aporta:
+
+Aportación al negocio: Categorizar en función a lo que aporta. Ej: Monetario, reducción de tiempo o costo, integración con algun otro tipo de tecnología.
+Aportación al usuario: Mejorar la interfaz, funcionalidad que premia al usuario.
+Tener en cuenta también la Complejidad Técnica.
+
+En el tablero de Kanban se realiza la priorización por etiquetas o por el orden en el que están colocadas las historias, siendo las primeras en este caso las más primordiales.

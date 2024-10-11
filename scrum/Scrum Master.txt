@@ -1,0 +1,43 @@
+El Scrum Master es el responsable de promover y apoyar la ejecución de Scrum dentro del equipo, ayudando a todos a entender la teoría, la práctica, las reglas y los valores de este marco de trabajo. Si algo no se está haciendo bien, debe proponer mejoras.
+
+Es un líder que está al servicio del equipo de Scrum y es el encargado de ayudar a entender a los externos al equipo scrum cuando deben interactuar con el equipo.
+
+Scrum_Master.jpg
+¿Cómo ayuda el Scrum Master al Product Owner?
+Asegura que los objetivos y el alcance sean entendidos por todo el equipo scrum, que todos entiendan en el planning qué se va a trabajar.
+Transmite los conocimientos sobre Scrum y prácticas ágiles.
+Facilita los eventos de scrum según se requiera: planea el lugar, la fecha, la hora, los recursos y se asegura de que todo esté listo cuando el equipo llegue a la sala.
+¿Cómo ayuda el Scrum Master al equipo de desarrollo?
+Guía al equipo de desarrollo para que sea autoorganizado y multifuncional. También identifica líderes que puedan resolver dudas o inconvenientes.
+Ayuda al equipo de desarrollo a crear productos de alto valor, asegurándose de que los objetivos durante el sprint sean entendidos. Recuerda al equipo los objetivos durante el sprint.
+Elimina impedimentos para el progreso del equipo de desarrollo.
+¿Cómo ayuda el Scrum Master a la organización?
+Lidera y guía a la organización en el proceso de adopción de Scrum.
+Trabaja en conjunto con otros Scrum Masters para incrementar la efectividad de la ejecución de Scrum en la organización.
+
+**********************************************
+El Scrum Master es el responsable de promover y apoyar scrum dentro del equipo, ayudando a todos a entender la teoría, práctica, reglas y valores de Scrum. Si hay algo que no se está haciendo bien debe decirnos “podemos mejorar”.
+
+Es un líder que está al servicio del equipo scrum, y es el encargado de ayudar a entender a los externos al equipo scrum cuando deben interactuar con el equipo.
+
+¿Cómo ayuda el SM al PO?
+
+Asegurar que los objetivos y el alcance sean entendidos por todo el equipo scrum, que todos entiendan en el planning qué se va a trabajar.
+
+Entender y practicar la agilidad.
+
+Facilitar los eventos de scrum según se requiera o necesite, planeación de lugar, fecha, hora, recursos, que cuando el equipo llegue a la sala esté todo lo que el equipo necesite.
+
+¿Cómo ayuda el SM al equipo de desarollo?
+
+Guiar al equipo de desarrollo para que sea autoorganizado, darle liderezgo a alguien para que resuelvan cualquier duda o inconveniente.
+
+Ayudar al equipo de desarrollo a crear productos de alto valor, asegurándose que los objetivos durante el sprint sean entendidos.
+
+Eliminar impedimentos para el progreso del equipo de desarrollo.
+
+¿Cómo ayuda el SM a la organización?
+
+Liderar y guiar a la organización a la adopción de Scrum.
+
+Trabajar en conjunto con otros SMs para incrementar la efectividad de la aplicación de Scrum en la organización.

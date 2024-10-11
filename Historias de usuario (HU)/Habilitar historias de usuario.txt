@@ -1,0 +1,45 @@
+Primeros Pasos para habilitar Historias de Usuario
+
+Identifica Barreras en tu Equipo/Empresa:
+Resistencia al contexto en partes.
+Costumbre de los Casos de Uso.
+Identifica Barreras en ti:
+Conocimiento: Identificar que otra cosa necesitamos saber o conocer para sentirnos mas seguro para proponer el cambio dentro del equipo.
+Habilidades: La negociación y la comunicación. También la redacción.
+Recomendaciones generales:
+
+Cambia la forma de conversar - Cambia la forma de gestionar: Incluir el VALOR, CALIDAD y FACTIBILIDAD(negocio y técnica).
+Escucha con más atención y pregunta más: Hacer escucha activa y atrevernos a preguntar.
+Trabaja por Timebox: Dedicar tiempo a la creación del primer backlog (Análisis).
+
+
+
+
+
+
+
+**************************
+clase 10: Primeros Pasos para habilitar Historias de Usuario
+Notas
+
+Baja tu nivel de lenguaje técnico a tu audiencia para no generar choque al cambio
+Recuerda existen Dos paradigmas Entornos Predictivos y Entornos Agiles
+Negociación y redacción es vital como habilidad -> Pule tus habilidades
+Cambia tu forma de conversar cambia tu forma de gestionar.
+Incluir a tu lenguaje el Valor, la Calidad, la factibilidad Técnica
+Bájale dos a tu Ego y enciende tu luz interior
+Una gran cucharada de empatía
+Time box -> una herramienta ágil
+Identifica Barreras en tu Equipo/Empresa:
+
+Resistencia al contexto en partes.
+Costumbre de los Casos de Uso.
+Identifica Barreras en ti:
+
+Conocimiento: Identificar que otra cosa necesitamos saber o conocer para sentirnos mas seguro para proponer el cambio dentro del equipo.
+Habilidades: La negociación y la comunicación. También la redacción.
+Recomendaciones generales:
+
+Cambia la forma de conversar - Cambia la forma de gestionar: Incluir el VALOR, CALIDAD y FACTIBILIDAD(negocio y técnica).
+Escucha con más atención y pregunta más: Hacer escucha activa y atrevernos a preguntar.
+Trabaja por Timebox: Dedicar tiempo a la creación del primer backlog (Análisis).

@@ -1,0 +1,18 @@
+¿Qué es un Scrum?
+Es cuando todo un equipo colabora para lograr un objetivo.
+Definición: Es un marco de trabajo por el cual las personas pueden abordar problemas complejos adaptativos, a la vez que entregan productos del máximo valor posible productiva y creativamente. Es un equipo pequeño, individual flexible y adaptativo.
+
+Teoría de Scrum
+Se basa en la teoría de control de procesos empírica o empirismo. El empirismo asegura que el conocimiento procede de la experiencia y de tomar decisiones basándose en lo que se conoce.
+
+Tres Pilares de Scrum:
+
+Transparencia: Cualquier persona involucrada en el proyecto pueda saber el estado actual del proyecto.
+Inspección: Los artefactos son lo que conocemos como requerimientos. Cualquier persona puede observar estos artefactos y analizar si están bien definidos o no.
+Adaptación: La capacidad que tiene cualquier persona en el proceso de reconocer cambios y poderlos implementar lo más rápido.
+Los valores de Scrum:
+Compromiso
+Coraje
+Enfoque
+Apertura
+Respeto

@@ -1,0 +1,13 @@
+El Dueño del Producto en un equipo de Scrum es el encargado de despejar dudas al equipo de desarrollo y debe estar en capacidad de explicar en qué consiste cada funcionalidad del producto. Entre sus responsabilidades están:
+
+Expresar claramente los elementos de la lista del producto (product backlog) y los objetivos de desarrollo.
+Dar prioridad a los elementos de la lista del producto y decidir en qué orden se van a realizar los diferentes desarrollos o funcionalidades.
+Optimizar el valor del trabajo del equipo de desarrollo.
+Asegurar que la lista de producto sea visible y clara para todos los involucrados en el proyecto.
+Asegurar que el equipo de desarrollo conozca los elementos de la lista de producto.
+Product_Owner.jpg
+Las decisiones de este rol van a ser reflejadas en el contenido y la priorización de la lista del producto. La decisión del Product Owner siempre se debe de respetar porque es la única persona autorizada en modificar la lista del producto.
+
+Esto no quiere decir que dicha autoridad será impuesta, se debe buscar consenso siempre para tener un equipo funcional. 🚫 Nadie puede forzar al equipo de desarrollo a que trabaje en otras actividades que no sean la prioridad establecida por el Product Owner o con base en un conjunto diferente de requisitos.
+
+Contribución creada con los aportes de: Flavio Rico Mendez, Alex Camacho, korpi

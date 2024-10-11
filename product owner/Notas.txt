@@ -1,0 +1,53 @@
+EMPODERAMIENTO DEL PRODUCT OWNER:
+.
+.
+• Necesitamos conocimiento del negocio
+• Conocimiento relacionado al contexto de usuario: el usuario solicitante no siempre es el usuario final. Tenemos que pensar en las personas que realmente usaran el producto.
+• Conocimiento del producto: como lo podemos partir en partes, cual parte es la más valiosa? Como hacer para mejorarlo? Un product owner no levanta el pedido, el product owner analiza, y para tomar decisiones necesita de este tipo de conocimientos. El conocimiento del dominio empresarial.
+• Análisis de negocio: el análisis de negocio se aplica para entender un problema de negocio, proponer alternativas de solución y definir el alance de la solución seleccionado considerando todos los recursos de la organización.
+• Habilidades:
+o Negociación: tenemos que estar todo el tiempo negociando con el cliente y con el equipo.
+o Abstracción: poder abstraer y categorizar toda la información proveniente de muchas fuentes de información. El PO abstrae la información y la hace más entendible al equipo.
+o Facilitación: no es solo facilitar una reunión, es facilitar el entendimiento del producto, el trabajo en equipo entre perfiles técnicos y de negocios, facilitarle la vía al equipo que va a hacer realidad el producto
+o Influencia: no es lo mismo que jerarquía. El PO tiene que maximizar la influencia positiva en el equipo.
+o Comunicación. Fomentar la conversación que llegue a conclusiones productivas, que las juntan no sean aburridas y que la gente no se vaya de una reunión confundida.
+• Herramientas:
+o Colaborativas
+o Visual Thinking
+
+
+
+
+
+
+
+
+
+***************
+PRINCIPIO DE AGILE BUSINESS ANALYSIS
+• Ayudar a ver el todo: Si le damos una visión amplia y total de qué es lo que se necesita. Las personas programan distinto si saben realmente cual es el objetivo global.
+• Piensa como cliente: Los esfuerzos se tienen que encaminar en aquel que use el software ya que de esta forma se obtienen los retornos de dinero.
+• Analizar para determinar qué es valioso:
+• Acércate a la realidad usando ejemplos: Cuando se dan ejemplos se fortalece el conocimiento.
+• Entiende que es factible: Esta la factibilidad del negocio, y de la factibiliad técnica. Es el entendimiento de qué es realmente lo posible. En el plan todo es factible y posible, pero en la práctica no.
+• Estimula la colaboración y la mejora continua: La colaboración entre todas las partes.
+• Evitar el desperdicio: Del lado del PO los desperdicios se generan generalmente a partir de los malos entendidos, o fallos de comunicación.
+
+
+
+
+
+
+
+
+****************
+
+Disciplinas relacionadas:
+
+Design Thinking – Práctica enfocada en el usuario final para lograr el MVP, logrando un backlog enriquecido.
+
+Análisis de Negocio – Disciplina relacionada con entender el problema o la oportunidad, es un conjunto amplio de acciones.
+
+Facilitación Gráfica – Generación de diagramas para facilitar la comprensión de algún tema y enriquecer la comunicación; este recurso es muy útil para abstraer y retener ideas y conceptos. (Cuando se establece al final de una reunión se denomina registro gráfico)
+
+Estructuras Liberadoras – Es un conjunto diseñado para liberar comunicaciones poderosas, a través de dinámicas de comunicación para liberar y hacer que los equipos sean más productivos y clarificar el entendimiento.

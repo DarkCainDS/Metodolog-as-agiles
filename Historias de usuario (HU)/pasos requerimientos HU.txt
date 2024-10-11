@@ -1,0 +1,9 @@
+Pasos para convertir requerimientos en HUs:
+
+Se descubren FUNCIONALIDADES en esos requerimientos
+Para cada una, se identifica el QUIEN (lo usaría)
+Para cada una se identifica el PARA QUÉ (Beneficio)
+A cada una se le establecen unos CRITERIOS DE ACEPTACIÓN
+Finalmente se identifica para cada una si existen REQUISITOS TÉCNICOS o FÓRMULAS que debamos tener en cuenta.
+
+

@@ -1,0 +1,17 @@
+strategias para poder habilitar HU de manera efectiva:
+
+Contexto → Las historias de usuario como centro:
+
+Entendimiento del problema: Saber que problema está resolviendo, o que solución se está implementando.
+Objetivos de negocio: Entender que el retrabajo, la falta de entendimiento y la falta de calidad afecta a nuestro negocio.
+Requerimientos técnicos: Debemos entender la funcionalidad como centro, pero alrededor debemos considerar requerimientos técnicos derivados (Backend).
+Requerimientos de Transición: Todas las tareas que se necesitan hacer dentro del equipo, proyecto y con el cliente para pasar de “ya terminé”, a “ya entregué”. Temas de administración, técnico(cambio de ambientes).
+
+INVEST:
+
+Independent: La HU debe estar lo mas independizada posible. Muchas funcionalidades = HU épica.
+Negotiable: Poder descartar historias conforme vamos avanzando en los sprints una no es tan valiosa. Poder negociar → quitar y también priorizar cuales son las más importantes.
+Valuable: Cuando queda claro y entendido el para qué, nos permite saber que una historia es valiosa y saber cual es su beneficio.
+Estimable: Para que algo sea estimable, el equipo o la persona que hará realidad esa funcionalidad tiene que poder decir cuanto tiempo o esfuerzo considera que le demandará. Si por el contrario no es capaz de estimar cuanto tiempo/esfuerzo le pueda tomar, significa que esa historia no es estimable y le falta claridad y reforzar entendimiento de la HU y refinarla.
+Small: Se procura que sea pequeña porque es importante darle peso al entendimiento y la conversación, no a la especificación. Lo hacemos pequeño para provocar conversaciones que alimenten el contexto.
+Testable: Hacerla comprobable, cuando los criterios de aceptación existen y entonces se verifica si esa HU se está haciendo correcta o incorrectamente.

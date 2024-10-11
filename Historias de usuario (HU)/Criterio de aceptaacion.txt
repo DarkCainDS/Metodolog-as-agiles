@@ -1,0 +1,9 @@
+Criterios de Aceptación en las Historias de Usuario
+
+Son condiciones para la calidad. La calidad tiene mucho que ver con la expectativa, mucho con los detalles.
+
+3 recomendaciones de expectativas para crear los criterios:
+
+Preguntarse: ¿Qué es importante que probemos? Que es importante que nos enfoquemos, que podría salir mal y que es importante que cuidemos → Las respuestas se dan de manera colaborativa.
+Preguntar/se ¿Qué es lo que nos preocupa?: Ayuda a identificar riesgos o amenazas. Suele derivar en criterios de aceptación para agregar a nuestras historias.
+Preguntar: Qué más necesita saber el equipo? → En colaboración, conocer la experiencia de los colaboradores. Aquí también suele dar hincapié a hacer refinamiento.
